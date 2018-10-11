@@ -1,0 +1,15 @@
+1 引入express 开启一个服务 测试请求是否是通的 修改package.json开发环境
+
+2 配置数据库配置文件 连接数据库
+
+3 配置user 路由 测试路由线路
+
+4创建model层数据库表 模型
+
+5配置body-parser 由于处理接收到的请求数据
+
+6测试注册接口 保存数据  密码加密
+
+2 用到的类库  express nodemon body-parser  mongoose bcrypt
+
+ gravatar jsonwebtoken  passport passport-jwt 
